@@ -70,7 +70,7 @@ a:visited { color: #a0a; }
 
 .title {
   display: inline-block;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 
 .title a {
@@ -157,4 +157,30 @@ a:visited { color: #a0a; }
 
 .post pre.terminal code {
   background-color: #333;
+}
+
+/*****************************************************************************/
+/*
+/* Fonts
+/*
+/*****************************************************************************/
+
+body {
+  font-family: "EB Garamond";
+  font-size: 16px;
+}
+
+p {
+  font-family: "EB Garamond";
+}
+
+h1 {
+  font-family: "Libre Baskerville";
+  font-size:5em;
+}
+
+h2 {
+padding-top:.5em;
+font-family: "Libre Baskerville";
+font-size:2em;
 }

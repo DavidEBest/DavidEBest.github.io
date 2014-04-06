@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Reset"
+date:   2014-04-06 15:50:55
+categories: ramble state-of-the-dave
+---
+
+Time to hit the big reset button on [CandiedBrain][cbcom].
+
+My name is Dave Best. I'm a thirty something software engineer from Dayton, Ohio. Like most people, I've got a wide range of interests. A few things I'm doing at the moment:
+
+- Raising a family.
+- Working at [LinQuest][linquest].
+- Organizing [Startup Weekend Dayton][swdayton].
+- Co-organizing [Code For Dayton][cfd]
+- Blogging here (in theory).
+
+I've delved into a few other niches - I've brewed some (decent) beer, written some (terrible) tabletop roleplaying games, and run a music podcast (also terrible). All of these things were discussed on the previous iteration of this blog and may be resurrected in this (or a future) iteration.
+
+For the moment, most of my thoughts have been toward community organizing. I've finally hooked into the Dayton community in a real way and I want to be a productive force for change. I've never been a real 'live in public' kind of guy, but I am trying to do a better job of it. If you are interested in getting in touch with me, check out [davidebest.co][debco], which contains links to all the social network profiles I maintain.
+
+[linquest]: http://www.linquest.com
+[cbcom]: http://candiedbrain.com
+[debco]: http://davidebest.co
+[swdayton]: http://dayton.startupweekend.org
+[cfd]: http://codefordayton.org
